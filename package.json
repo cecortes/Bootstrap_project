@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap_project",
+  "version": "1.0.0",
+  "description": "Demo project using bootstrap",
+  "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecortes/Bootstrap_project.git"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "César López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cecortes/Bootstrap_project/issues"
+  },
+  "homepage": "https://github.com/cecortes/Bootstrap_project#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.3.0-alpha1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
